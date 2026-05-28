@@ -1,0 +1,32 @@
+aid: warrant
+name: Warrant
+description: "APIs for authorization and access control"
+url: https://warrant.dev/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Authentication & Authorization"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Authentication And Authorization
+  - Public APIs
+apis:
+  - name: Warrant
+    description: "APIs for authorization and access control"
+    humanURL: https://warrant.dev/
+    baseURL: https://warrant.dev/
+    tags:
+      - Authentication And Authorization
+    properties:
+      - type: Documentation
+        url: https://warrant.dev/
+common:
+  - type: Website
+    url: https://warrant.dev/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
