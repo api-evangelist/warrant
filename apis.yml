@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://warrant.dev/
 common:
+  - type: DomainSecurity
+    url: security/warrant-domain-security.yml
   - type: Website
     url: https://warrant.dev/
   - type: PublicAPIsListing
